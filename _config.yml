@@ -20,31 +20,6 @@ descrpt: "   "
 developedby: true
 
 #
-# Build settings
-#
-
-#exclude: [vendor]
-
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  highlight: true
-  auto_ids:  true
-
-sass:
-  style: compressed
-
-permalink: /posts/:categories/:title.html
-
-
-
-
-
-
-#
 # Custom
 #
 
