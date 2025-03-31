@@ -17,7 +17,7 @@ Here you can download the latest DangoPlayer APK for Android devices with Google
 - Bug fixes and improvements on the application
 
 ## Download
-<a href='https://github.com/bruno-chanrio/DangoPlayer/releases/download/6.0usagi/DangoPlayer_6.0usagi.apk'><img alt='Download DangoPlayer APK for Android-based devices' height='100' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/GetAndroidAPK.png'/></a>
+<a href='https://github.com/bruno-chanrio/DangoPlayer/releases/download/6.0usagi/DangoPlayer_6.0usagi.apk'><img alt='Download APK -->' height='65' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/DownloadAPK.png'/></a>
 
 ## Warning for users of Android devices with Google services
 You have a Android device with Google services? We recommend you to download DangoPlayer from the Google Play Store, as downloading from Google Play Store allows you to receive automatic updates of the DangoPlayer app
