@@ -7,7 +7,7 @@
   color: dango-teal
   url: getdango
 - title: Screenshots
-  icon: cellphone_screenshot
+  icon: cellphone-screenshot
   color: dango-yellow
   url: screenshots
 - title: Privacy Policy
