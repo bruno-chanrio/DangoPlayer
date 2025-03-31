@@ -10,7 +10,6 @@ head-title: DangoPlayer
 title: DangoPlayer 
 
 baseurl: "/DangoPlayer"    # the subpath of your site, "/blog"
-url: ""
 
 # footer 
 description: "A fast video player and IPTV client for Android and TV"
