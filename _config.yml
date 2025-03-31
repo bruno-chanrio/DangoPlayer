@@ -59,3 +59,7 @@ footer-link-color: "red-text text-accent-1"
 
 share-button-color: "pink"
 share-button-small-color: ""
+
+##
+#excerpt_separator: <!-- excerpt_end -->       # for post.excerpt
+
