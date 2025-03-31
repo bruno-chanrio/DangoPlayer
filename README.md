@@ -31,3 +31,5 @@ DangoPlayer is a unified, unique and fast video player and IPTV client for Andro
 
 ## Requires:
 Android 5.0 or later
+
+<a href="https://bruno-chanrio.github.io"><img alt='Developed by Bruno-chanrio' width='250' src='https://bruno-chanrio.github.io/DangoPlayer/assets/img/Bruno-chanrio_DevelopedBy_Badge.png'/></a>
