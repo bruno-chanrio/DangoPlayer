@@ -1,5 +1,7 @@
 ---
 layout: page
+title: DangoPlayer 
+permalink: /
 ---
 # DangoPlayer
 
