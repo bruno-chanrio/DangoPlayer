@@ -1,6 +1,7 @@
-remote_theme: bruno-chanrio/materialize-jekyll@0.1
+remote_theme: bruno-chanrio/materialize-jekyll@0.2
 plugins:
 - jekyll-remote-theme
+
 author: Bruno-chanrio 
 
 head-title: DangoPlayer 
