@@ -1,0 +1,54 @@
+author: Bruno-chanrio 
+
+head-title: DangoPlayer 
+title: DangoPlayer 
+
+baseurl: "/DangoPlayer"    # the subpath of your site, "/blog"
+url: ""
+
+# footer 
+description: "A fast video player and IPTV client for Android and TV"
+
+developedby: true
+
+#
+# Build settings
+#
+
+#exclude: [vendor]
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  highlight: true
+  auto_ids:  true
+
+sass:
+  style: compressed
+
+permalink: /posts/:categories/:title.html
+
+paginate: 7
+#paginate_path: 'page/:num'
+
+gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
+
+
+#
+# Custom
+#
+
+# Color
+# All css class, see: http://materializecss.com/color.html
+header-color: "pink lighten-1"
+head-theme-color: "#B74A75"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
+
+footer-color: "pink lighten-1"
+footer-button-color: "pink lighten-2"
+footer-link-color: "red-text text-accent-1"
+
+share-button-color: "pink"
+share-button-small-color: ""
