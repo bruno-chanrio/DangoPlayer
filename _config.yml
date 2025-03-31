@@ -1,4 +1,4 @@
-remote_theme: bruno-chanrio/materialize-jekyll@0.2
+remote_theme: bruno-chanrio/materialize-jekyll@0.3
 plugins:
 - jekyll-remote-theme
 - jekyll-last-modified-at
@@ -62,4 +62,3 @@ share-button-small-color: ""
 
 ##
 #excerpt_separator: <!-- excerpt_end -->       # for post.excerpt
-
