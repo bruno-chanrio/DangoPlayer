@@ -26,14 +26,14 @@ developedby: true
 
 # Color
 # All css class, see: http://materializecss.com/color.html
-header-color: "dango-pink-bg darken-2"
+header-color: "dango-pink-bg darken-4"
 head-theme-color: "#B74A75"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
-footer-color: "dango-pink-bg darken-2"
-footer-button-color: "dango-pink-bg darken-4"
-footer-link-color: "dango-teal-text text-darken-6"
+footer-color: "dango-pink-bg darken-4"
+footer-button-color: "dango-pink-bg darken-2"
+footer-link-color: "dango-teal-text text-lighten-1"
 
-share-button-color: "dango-teal-bg darken-3"
+share-button-color: "dango-teal-bg darken-2"
 share-button-small-color: ""
 
 ##
