@@ -1,5 +1,16 @@
 - title: Home
   icon: home
-  color: pink
+  color: dango-pink
   url: 
-  
+- title: Download
+  icon: download
+  color: dango-teal
+  url: getdango
+- title: Screenshots
+  icon: cellphone_screenshot
+  color: dango-yellow
+  url: screenshots
+- title: Privacy Policy
+  icon: shield
+  color: dango-purple
+  url: privacypolicy
