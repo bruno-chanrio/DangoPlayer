@@ -1,6 +1,9 @@
 remote_theme: bruno-chanrio/materialize-jekyll@0.2
 plugins:
 - jekyll-remote-theme
+- jekyll-paginate
+- jekyll-last-modified-at
+- jemoji
 
 author: Bruno-chanrio 
 
@@ -40,7 +43,6 @@ permalink: /posts/:categories/:title.html
 paginate: 7
 #paginate_path: 'page/:num'
 
-gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 
 
 #
