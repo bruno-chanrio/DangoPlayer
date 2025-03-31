@@ -3,7 +3,7 @@ layout: null
 permalink: /samples.m3u
 ---
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://bruno-chanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop H.264 (Apple HLS)
+#EXTINF:-1 tvg-logo="https://bruno-chanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop H264 (Apple HLS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 #EXTINF:-1 tvg-logo="https://bruno-chanrio.github.io/DangoPlayer/samples/img/AppleDeveloper.png" group-title="Apple HLS",Apple BipBop HEVC (Apple HLS)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
