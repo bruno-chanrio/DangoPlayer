@@ -8,7 +8,7 @@ author: Bruno-chanrio
 
 head-title: DangoPlayer 
 title: DangoPlayer 
-logo: /assets/img/DangoPlayerUni_Logo.png
+logo: /assets/img/DangoPlayerUni_TitleBarLogo.png
 
 baseurl: "/DangoPlayer"    # the subpath of your site, "/blog"
 url: ""
